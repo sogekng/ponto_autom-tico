@@ -13,3 +13,8 @@
 
 ### Biblioteca Selenium
 ### ChromeDriverManager
+
+## Instalando bibliotecas
+
+#### pip install webdriver-manager
+#### pip install selenium

@@ -11,5 +11,5 @@
 
 # Recursos necessários
 
-## Biblioteca Selenium
-## ChromeDriverManager
+### Biblioteca Selenium
+### ChromeDriverManager

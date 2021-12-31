@@ -9,12 +9,7 @@
 ### adicionar o arquivo "webponto.py" no agendador de tarefas do windows no horario de entrada e saida 
 ### e assim ele vai logar automaticamente.
 
-# Recursos necessários
-
-### Biblioteca Selenium
-### ChromeDriverManager
-
-## Instalando bibliotecas
+## Instalar bibliotecas
 
 #### pip install webdriver-manager
 #### pip install selenium

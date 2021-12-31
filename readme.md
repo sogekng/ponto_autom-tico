@@ -5,9 +5,9 @@
 
 # Oque fazer para ele pegar
 
-## Você precisa somente adicionar suas informações no "readme.py", suas informações de login
-adicionar o arquivo "webponto.py" no agendador de tarefas do windows no horario de entrada e saida 
-e assim ele vai logar automaticamente.
+### Você precisa somente adicionar suas informações no "readme.py", suas informações de login
+### adicionar o arquivo "webponto.py" no agendador de tarefas do windows no horario de entrada e saida 
+### e assim ele vai logar automaticamente.
 
 # Recursos necessários
 
